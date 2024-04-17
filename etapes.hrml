@@ -1,0 +1,10 @@
+index.php 
+        -afficher dynamiquement les categorie et les produits
+        -en cliquant sur commander , ajouter le produit le produit au panier
+            "insert into"
+
+
+panier.php
+        -afficher produits present dans le panier utilisateur 
+        "usertemp"
+        -Gerer total et sous total , quantité
